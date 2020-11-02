@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **lawanuborthakur/lawanuborthakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 #### I am a full stack software developer
 ![I am a full stack software developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
+I'm from Bangalore,India and I do Software Development and Design. I really enjoy learning languages and frameworks like Spring Boot and Hibernate, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: JAVA  / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
