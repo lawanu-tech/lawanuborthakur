@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋, my name is Lawanu Borthakur
 #### I am a full stack software developer
-![I am a full stack software developer]
 
 I'm from Bangalore,India and I do Software Development and Design. I really enjoy learning languages and frameworks like Spring Boot and Hibernate, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
